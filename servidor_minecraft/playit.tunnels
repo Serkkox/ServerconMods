@@ -35,10 +35,12 @@
       "name": "Minecraft Java",
       "origin": {
         "data": {
+          "agent_id": "0a0d7175-0265-4e8a-a1b2-7b5f57bbd3e4",
+          "agent_name": "from-key-3c1c",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
-        "type": "default"
+        "type": "agent"
       },
       "port_count": 1,
       "port_type": "tcp",

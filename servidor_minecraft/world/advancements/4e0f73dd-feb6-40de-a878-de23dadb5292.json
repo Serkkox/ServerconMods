@@ -1,0 +1,39 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-17 17:36:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-05-17 17:36:20 -0500"
+    },
+    "done": true
+  },
+  "roguecraft:triggers/listeners/scroll_obtained": {
+    "criteria": {
+      "requirement": "2025-05-17 17:36:20 -0500"
+    },
+    "done": true
+  },
+  "roguecraft:challenges/root": {
+    "criteria": {
+      "granted": "2025-05-17 17:36:21 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:desert": "2025-05-17 17:36:17 -0500"
+    },
+    "done": false
+  },
+  "roguecraft:challenges/truest_completion": {
+    "criteria": {
+      "challenges": "2025-05-17 17:36:22 -0500"
+    },
+    "done": false
+  },
+  "DataVersion": 4082
+}
