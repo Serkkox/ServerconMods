@@ -1,117 +1,28 @@
 {
-  "minecraft:recipes/decorations/orange_candle": {
+  "skyblock:challenges/root": {
     "criteria": {
-      "has_orange_dye": "2025-05-21 19:43:33 -0500"
+      "join_skyblock_world": "2025-05-28 19:41:55 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_orange_carpet": {
+  "skyblock:progression/root": {
     "criteria": {
-      "has_needed_dye": "2025-05-21 19:43:33 -0500"
+      "join_skyblock_world": "2025-05-28 19:41:55 -0500"
     },
     "done": true
   },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-05-21 19:42:39 -0500"
+      "unlock_right_away": "2025-05-28 19:41:55 -0500"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_candle": {
+  "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "has_white_dye": "2025-05-21 19:42:39 -0500"
+      "minecraft:old_growth_pine_taiga": "2025-05-28 19:41:56 -0500",
+      "minecraft:dark_forest": "2025-05-28 19:42:07 -0500"
     },
-    "done": true
+    "done": false
   },
-  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_orange_dye": "2025-05-21 19:43:33 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-05-21 19:42:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_white_dye": "2025-05-21 19:42:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/lime_dye": {
-    "criteria": {
-      "has_white_dye": "2025-05-21 19:42:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-05-21 19:42:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-05-21 19:42:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_carpet": {
-    "criteria": {
-      "has_needed_dye": "2025-05-21 19:42:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_orange_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-05-21 19:43:33 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_orange_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-05-21 19:43:33 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_white_wool": {
-    "criteria": {
-      "has_needed_dye": "2025-05-21 19:42:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-05-21 19:42:39 -0500"
-    },
-    "done": true
-  },
-  "ctmv:spanish/normal/root": {
-    "criteria": {
-      "requirement": "2025-05-21 19:42:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gray_dye": {
-    "criteria": {
-      "has_white_dye": "2025-05-21 19:42:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-05-21 19:42:39 -0500"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
-    "criteria": {
-      "has_white_dye": "2025-05-21 19:42:39 -0500"
-    },
-    "done": true
-  },
-  "DataVersion": 3578
+  "DataVersion": 3839
 }
