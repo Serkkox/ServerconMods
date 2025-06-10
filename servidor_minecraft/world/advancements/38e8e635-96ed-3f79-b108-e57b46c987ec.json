@@ -216,6 +216,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-29 03:53:22 +0000",
       "minecraft:witch": "2025-06-10 01:22:38 +0000",
+      "minecraft:spider": "2025-06-10 02:16:16 +0000",
       "minecraft:zombie": "2025-05-29 03:51:27 +0000",
       "minecraft:creeper": "2025-05-29 03:53:23 +0000",
       "minecraft:zombie_villager": "2025-06-10 00:37:21 +0000"
@@ -456,6 +457,12 @@
     },
     "done": true
   },
+  "skyblock:progression/kill_spider": {
+    "criteria": {
+      "kill_spider": "2025-06-10 02:16:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-10 02:09:41 +0000"
@@ -483,6 +490,12 @@
   "skyblock:progression/glowstone": {
     "criteria": {
       "has_glowstone": "2025-06-10 01:55:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-10 02:16:20 +0000"
     },
     "done": true
   },
@@ -516,6 +529,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-10 02:16:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-06-10 01:55:30 +0000"
@@ -534,6 +553,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-10 02:16:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-10 02:09:41 +0000"
@@ -546,9 +571,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-10 02:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-10 02:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "carrot": "2025-06-10 02:11:10 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-10 02:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-10 02:11:10 +0000"
     },
     "done": true
   },
@@ -573,6 +622,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-10 02:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-10 02:16:20 +0000"
     },
     "done": true
   },
