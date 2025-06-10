@@ -259,6 +259,7 @@
       "minecraft:skeleton": "2025-05-29 04:03:15 +0000",
       "minecraft:enderman": "2025-06-10 02:17:35 +0000",
       "minecraft:witch": "2025-06-10 01:25:18 +0000",
+      "minecraft:spider": "2025-06-10 02:31:26 +0000",
       "minecraft:zombie": "2025-05-29 04:03:18 +0000",
       "minecraft:creeper": "2025-05-29 04:03:17 +0000",
       "minecraft:zombie_villager": "2025-06-10 00:15:12 +0000"
@@ -481,6 +482,12 @@
     },
     "done": true
   },
+  "skyblock:progression/kill_spider": {
+    "criteria": {
+      "kill_spider": "2025-06-10 02:31:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-10 02:09:02 +0000"
@@ -490,6 +497,12 @@
   "skyblock:progression/cauldron": {
     "criteria": {
       "has_cauldron": "2025-06-10 01:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-10 02:35:31 +0000"
     },
     "done": true
   },
@@ -511,9 +524,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-10 02:35:31 +0000"
+    },
+    "done": true
+  },
   "skyblock:progression/glowstone": {
     "criteria": {
       "has_glowstone": "2025-06-10 02:26:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-10 02:35:31 +0000"
     },
     "done": true
   },
@@ -526,6 +551,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2025-06-10 01:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-10 02:35:31 +0000"
     },
     "done": true
   },

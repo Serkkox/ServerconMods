@@ -228,6 +228,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-06-10 00:14:11 +0000",
       "minecraft:witch": "2025-05-29 04:04:32 +0000",
+      "minecraft:spider": "2025-06-10 02:35:13 +0000",
       "minecraft:zombie": "2025-05-29 03:56:24 +0000",
       "minecraft:creeper": "2025-06-10 00:11:50 +0000",
       "minecraft:zombie_villager": "2025-06-10 01:21:43 +0000"
@@ -303,6 +304,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 00:27:18 +0000"
+    },
+    "done": true
+  },
+  "skyblock:progression/kill_spider": {
+    "criteria": {
+      "kill_spider": "2025-06-10 02:35:13 +0000"
     },
     "done": true
   },
@@ -408,6 +415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-10 02:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-06-10 01:31:59 +0000"
@@ -504,6 +517,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-10 02:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 00:27:18 +0000"
@@ -546,6 +565,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-10 02:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-06-10 01:50:20 +0000"
@@ -582,6 +607,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-10 02:35:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 00:27:18 +0000"
@@ -597,6 +628,12 @@
   "skyblock:recipes/building_blocks/iron_ore": {
     "criteria": {
       "has_iron": "2025-06-10 00:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-10 02:35:15 +0000"
     },
     "done": true
   },
@@ -663,6 +700,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-10 02:09:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-06-10 02:35:15 +0000"
     },
     "done": true
   },
