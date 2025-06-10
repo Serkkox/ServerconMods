@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "skyblock:progression/cauldron": {
+    "criteria": {
+      "has_cauldron": "2025-06-10 01:41:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-06-10 01:31:59 +0000"
@@ -446,6 +452,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-06-10 01:14:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_the_recipe": "2025-06-10 01:41:12 +0000"
     },
     "done": true
   },

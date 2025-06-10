@@ -21,6 +21,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-05-29 00:46:05 +0000",
       "minecraft:dark_forest": "2025-05-29 01:00:53 +0000",
+      "minecraft:river": "2025-06-10 01:40:29 +0000",
       "minecraft:lush_caves": "2025-05-29 01:07:30 +0000"
     },
     "done": false
@@ -467,15 +468,51 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-10 01:24:34 +0000"
+    },
+    "done": true
+  },
   "skyblock:progression/kill_witch": {
     "criteria": {
       "kill_witch": "2025-06-10 01:25:18 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "skyblock:progression/cauldron": {
     "criteria": {
-      "shot_arrow": "2025-06-10 01:24:34 +0000"
+      "has_cauldron": "2025-06-10 01:45:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-10 01:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-10 01:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-10 01:45:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-10 01:45:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-10 01:45:17 +0000"
     },
     "done": true
   },
