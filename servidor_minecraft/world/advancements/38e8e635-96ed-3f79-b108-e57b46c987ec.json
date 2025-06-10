@@ -475,6 +475,12 @@
     },
     "done": true
   },
+  "skyblock:progression/bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-10 02:21:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-06-10 02:09:41 +0000"
@@ -580,6 +586,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-06-10 02:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-10 02:21:43 +0000"
     },
     "done": true
   },

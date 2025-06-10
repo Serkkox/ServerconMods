@@ -499,9 +499,21 @@
     },
     "done": true
   },
+  "skyblock:progression/bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-10 02:21:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-06-10 02:09:02 +0000"
+    },
+    "done": true
+  },
+  "skyblock:progression/glowstone": {
+    "criteria": {
+      "has_glowstone": "2025-06-10 02:26:55 +0000"
     },
     "done": true
   },
@@ -520,6 +532,12 @@
   "minecraft:recipes/transportation/spruce_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-10 02:09:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-06-10 02:26:55 +0000"
     },
     "done": true
   },
@@ -553,6 +571,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-10 02:21:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "rotten_flesh": "2025-06-10 01:51:04 +0000",
@@ -571,6 +595,12 @@
       "consumed_item": "2025-06-10 01:51:04 +0000"
     },
     "done": true
+  },
+  "skyblock:challenges/all_light_sources": {
+    "criteria": {
+      "glowstone": "2025-06-10 02:26:55 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {

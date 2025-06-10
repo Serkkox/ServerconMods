@@ -330,6 +330,12 @@
     },
     "done": true
   },
+  "skyblock:progression/bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-10 02:22:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/bamboo_chest_raft": {
     "criteria": {
       "has_boat": "2025-06-10 02:09:53 +0000"
@@ -351,6 +357,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 00:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-10 02:24:08 +0000"
     },
     "done": true
   },
@@ -381,6 +393,12 @@
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 00:27:18 +0000"
+    },
+    "done": true
+  },
+  "skyblock:progression/glowstone": {
+    "criteria": {
+      "has_glowstone": "2025-06-10 02:26:28 +0000"
     },
     "done": true
   },
@@ -492,6 +510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-06-10 02:26:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-06-10 01:14:29 +0000"
@@ -552,6 +576,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-10 02:21:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 00:27:18 +0000"
@@ -567,6 +597,12 @@
   "skyblock:recipes/building_blocks/iron_ore": {
     "criteria": {
       "has_iron": "2025-06-10 00:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-10 02:22:07 +0000"
     },
     "done": true
   },
@@ -603,6 +639,18 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-06-10 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "skyblock:challenges/all_light_sources": {
+    "criteria": {
+      "glowstone": "2025-06-10 02:26:28 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-06-10 02:21:38 +0000"
     },
     "done": true
   },
