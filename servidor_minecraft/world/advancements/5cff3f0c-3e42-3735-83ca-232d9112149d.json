@@ -228,7 +228,8 @@
       "minecraft:skeleton": "2025-06-10 00:14:11 +0000",
       "minecraft:witch": "2025-05-29 04:04:32 +0000",
       "minecraft:zombie": "2025-05-29 03:56:24 +0000",
-      "minecraft:creeper": "2025-06-10 00:11:50 +0000"
+      "minecraft:creeper": "2025-06-10 00:11:50 +0000",
+      "minecraft:zombie_villager": "2025-06-10 01:21:43 +0000"
     },
     "done": false
   },
@@ -304,6 +305,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-06-10 01:24:36 +0000"
+    },
+    "done": true
+  },
+  "skyblock:progression/zombie_crop": {
+    "criteria": {
+      "has_zombie_crop": "2025-06-10 01:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 00:27:18 +0000"
@@ -361,6 +374,18 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 00:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-06-10 01:24:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-06-10 01:24:36 +0000"
     },
     "done": true
   },
