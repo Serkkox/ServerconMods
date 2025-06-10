@@ -215,7 +215,8 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-29 03:53:22 +0000",
       "minecraft:zombie": "2025-05-29 03:51:27 +0000",
-      "minecraft:creeper": "2025-05-29 03:53:23 +0000"
+      "minecraft:creeper": "2025-05-29 03:53:23 +0000",
+      "minecraft:zombie_villager": "2025-06-10 00:37:21 +0000"
     },
     "done": false
   },
@@ -435,12 +436,6 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-06-10 00:19:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 00:12:42 +0000"
@@ -450,6 +445,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 00:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-06-10 00:19:17 +0000"
     },
     "done": true
   },
