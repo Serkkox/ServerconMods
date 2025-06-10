@@ -43,3 +43,15 @@
 [00:36:21] [Server thread/INFO]: Player noxox joined with a matching carpet client
 [00:36:31] [Server thread/INFO]: [SerkkoxX: Subscribed to mobcaps(overworld)]
 [00:41:36] [Server thread/INFO]: SerkkoxX fell out of the world
+[00:51:09] [Server thread/INFO]: [Textile Backup] Warning! Server backup will begin shortly. You may experience some lag.
+[00:51:09] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2025.06.10_00-51-09
+[00:51:09] [Server thread/INFO]: [Textile Backup] Saving server...
+[00:51:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[00:51:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[00:51:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[00:51:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[00:51:09] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[00:51:09] [pool-3-thread-1/INFO]: [Textile Backup] Compression took: 00.137 seconds.
+[00:51:09] [pool-3-thread-1/INFO]: [Textile Backup] Deleted: /workspaces/ServerconMods/servidor_minecraft/backup/world/2025.05.29_01-01-51#shutdown.zip
+[00:51:09] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[00:52:30] [Server thread/INFO]: Jorbdaj fell out of the world
