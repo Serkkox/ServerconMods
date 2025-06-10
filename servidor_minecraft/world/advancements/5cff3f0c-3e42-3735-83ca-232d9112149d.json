@@ -21,6 +21,7 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-05-29 01:03:20 +0000",
       "minecraft:dark_forest": "2025-05-29 01:04:00 +0000",
+      "minecraft:river": "2025-06-10 01:52:37 +0000",
       "minecraft:lush_caves": "2025-05-29 01:13:42 +0000"
     },
     "done": false
@@ -395,9 +396,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-06-10 01:50:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 00:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-06-10 01:50:20 +0000"
     },
     "done": true
   },
@@ -422,6 +435,18 @@
   "skyblock:recipes/building_blocks/deepslate_iron_ore": {
     "criteria": {
       "has_iron": "2025-06-10 00:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-06-10 01:50:20 +0000"
+    },
+    "done": true
+  },
+  "skyblock:progression/redstone": {
+    "criteria": {
+      "has_redstone": "2025-06-10 01:50:20 +0000"
     },
     "done": true
   },
@@ -464,6 +489,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 00:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-06-10 01:50:20 +0000"
     },
     "done": true
   },
@@ -515,9 +546,27 @@
     },
     "done": false
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-06-10 01:50:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-06-10 01:50:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-06-10 00:33:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-06-10 01:50:20 +0000"
     },
     "done": true
   },
@@ -530,6 +579,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-06-10 00:27:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-06-10 01:50:20 +0000"
     },
     "done": true
   },

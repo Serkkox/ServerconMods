@@ -462,6 +462,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-10 01:48:21 +0000"
+    },
+    "done": true
+  },
+  "skyblock:progression/glowstone": {
+    "criteria": {
+      "has_glowstone": "2025-06-10 01:55:30 +0000"
+    },
+    "done": true
+  },
   "skyblock:progression/kill_witch": {
     "criteria": {
       "kill_witch": "2025-06-10 01:22:38 +0000"
@@ -480,11 +492,23 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-06-10 01:55:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2025-06-10 01:22:59 +0000"
     },
     "done": true
+  },
+  "skyblock:challenges/all_light_sources": {
+    "criteria": {
+      "glowstone": "2025-06-10 01:55:30 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
