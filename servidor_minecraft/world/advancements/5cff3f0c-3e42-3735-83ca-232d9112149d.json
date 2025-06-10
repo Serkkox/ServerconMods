@@ -225,8 +225,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-06-10 00:14:11 +0000",
       "minecraft:witch": "2025-05-29 04:04:32 +0000",
-      "minecraft:zombie": "2025-05-29 03:56:24 +0000"
+      "minecraft:zombie": "2025-05-29 03:56:24 +0000",
+      "minecraft:creeper": "2025-06-10 00:11:50 +0000"
     },
     "done": false
   },
@@ -257,6 +259,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-29 04:04:35 +0000"
+    },
+    "done": true
+  },
+  "skyblock:progression/kill_skeleton": {
+    "criteria": {
+      "kill_skeleton": "2025-06-10 00:14:11 +0000"
     },
     "done": true
   },
