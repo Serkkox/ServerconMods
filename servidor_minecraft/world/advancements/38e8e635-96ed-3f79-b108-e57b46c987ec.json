@@ -661,6 +661,14 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-06-11 02:17:12 +0000",
+      "minecraft:pig": "2025-06-11 02:17:04 +0000",
+      "minecraft:sheep": "2025-06-11 02:17:10 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-06-11 01:18:07 +0000"
@@ -676,6 +684,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-06-11 01:16:44 +0000"
+    },
+    "done": true
+  },
+  "skyblock:progression/wheat": {
+    "criteria": {
+      "has_wheat": "2025-06-11 02:16:21 +0000"
     },
     "done": true
   },
@@ -709,9 +723,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-11 02:16:21 +0000"
+    },
+    "done": true
+  },
+  "skyblock:progression/breed_pigs": {
+    "criteria": {
+      "bred_pigs": "2025-06-11 02:17:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-06-11 01:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-11 02:16:21 +0000"
     },
     "done": true
   },
@@ -724,6 +756,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-06-11 01:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-06-11 02:17:04 +0000"
     },
     "done": true
   },

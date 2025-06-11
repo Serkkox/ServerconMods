@@ -21,8 +21,10 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-05-29 00:46:05 +0000",
       "minecraft:dark_forest": "2025-05-29 01:00:53 +0000",
+      "minecraft:deep_dark": "2025-06-11 02:15:02 +0000",
       "minecraft:river": "2025-06-10 01:40:29 +0000",
-      "minecraft:lush_caves": "2025-05-29 01:07:30 +0000"
+      "minecraft:lush_caves": "2025-05-29 01:07:30 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-11 02:14:13 +0000"
     },
     "done": false
   },
@@ -694,46 +696,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/cooked_mutton_from_smoking": {
-    "criteria": {
-      "has_mutton": "2025-06-11 02:05:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton": {
-    "criteria": {
-      "has_mutton": "2025-06-11 02:05:53 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:cow": "2025-06-11 02:07:28 +0000",
-      "minecraft:sheep": "2025-06-11 02:07:27 +0000"
-    },
-    "done": false
-  },
-  "skyblock:progression/wheat": {
-    "criteria": {
-      "has_wheat": "2025-06-11 02:03:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
-    "criteria": {
-      "has_mutton": "2025-06-11 02:05:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-06-11 01:46:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_poppy": {
-    "criteria": {
-      "has_poppy": "2025-06-11 02:07:48 +0000"
     },
     "done": true
   },
@@ -749,6 +714,12 @@
     },
     "done": true
   },
+  "skyblock:progression/wheat": {
+    "criteria": {
+      "has_wheat": "2025-06-11 02:03:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2025-06-11 02:03:25 +0000"
@@ -761,9 +732,112 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-06-11 02:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-06-11 02:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-06-11 02:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2025-06-11 02:07:28 +0000",
+      "minecraft:sheep": "2025-06-11 02:07:27 +0000"
+    },
+    "done": false
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred": "2025-06-11 02:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-06-11 02:07:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-11 02:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-11 02:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-11 02:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 02:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 02:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-06-11 02:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-11 02:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-11 02:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-11 02:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_white_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-06-11 02:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-06-11 02:10:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-06-11 02:10:12 +0000"
     },
     "done": true
   },
