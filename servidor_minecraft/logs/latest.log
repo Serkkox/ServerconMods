@@ -113,3 +113,10 @@
 [01:08:46] [Server thread/INFO]: SerkkoxX fell out of the world
 [01:13:10] [Server thread/INFO]: SerkkoxX fell out of the world
 [01:13:11] [Server thread/WARN]: SerkkoxX moved too quickly! 0.0,-18.39600153385004,0.0
+[01:15:19] [Server thread/INFO]: noxox lost connection: Timed out
+[01:15:19] [Server thread/INFO]: noxox left the game
+[01:15:19] [Server thread/WARN]: handleDisconnection() called twice
+[01:15:49] [Server thread/INFO]: noxox[/127.242.93.67:33603] logged in with entity id 4063 at (-5.717421909492605, -63.5, 155.04735456447742)
+[01:15:49] [Server thread/INFO]: noxox joined the game
+[01:15:50] [Server thread/INFO]: Player noxox joined with a matching carpet client
+[01:18:07] [Server thread/INFO]: noxox has made the advancement [Can't Do Much With This... Yet]
