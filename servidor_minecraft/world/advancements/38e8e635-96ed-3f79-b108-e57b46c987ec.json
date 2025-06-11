@@ -457,57 +457,9 @@
     },
     "done": true
   },
-  "skyblock:progression/kill_spider": {
-    "criteria": {
-      "kill_spider": "2025-06-10 02:16:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_chest_boat": {
-    "criteria": {
-      "has_boat": "2025-06-10 02:09:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-06-10 00:48:48 +0000"
-    },
-    "done": true
-  },
-  "skyblock:progression/bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-06-10 02:21:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/bamboo_chest_raft": {
-    "criteria": {
-      "has_boat": "2025-06-10 02:09:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-06-10 01:48:21 +0000"
-    },
-    "done": true
-  },
-  "skyblock:progression/glowstone": {
-    "criteria": {
-      "has_glowstone": "2025-06-10 01:55:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-06-10 02:16:20 +0000"
-    },
-    "done": true
-  },
-  "skyblock:progression/kill_witch": {
-    "criteria": {
-      "kill_witch": "2025-06-10 01:22:38 +0000"
     },
     "done": true
   },
@@ -523,27 +475,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/spruce_chest_boat": {
+  "skyblock:progression/kill_witch": {
     "criteria": {
-      "has_boat": "2025-06-10 02:09:41 +0000"
+      "kill_witch": "2025-06-10 01:22:38 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
-      "shot_arrow": "2025-06-10 02:10:21 +0000"
+      "has_glowstone_dust": "2025-06-10 01:22:59 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/fishing_rod": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_string": "2025-06-10 02:16:20 +0000"
+      "has_glowstone_dust": "2025-06-10 01:22:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-10 01:48:21 +0000"
+    },
+    "done": true
+  },
+  "skyblock:progression/glowstone": {
+    "criteria": {
+      "has_glowstone": "2025-06-10 01:55:30 +0000"
     },
     "done": true
   },
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-06-10 01:55:30 +0000"
+    },
+    "done": true
+  },
+  "skyblock:challenges/all_light_sources": {
+    "criteria": {
+      "glowstone": "2025-06-10 01:55:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/transportation/dark_oak_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-10 02:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_chest_raft": {
+    "criteria": {
+      "has_boat": "2025-06-10 02:09:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_chest_boat": {
+    "criteria": {
+      "has_boat": "2025-06-10 02:09:41 +0000"
     },
     "done": true
   },
@@ -559,69 +547,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2025-06-10 02:16:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-10 02:09:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glowstone": {
-    "criteria": {
-      "has_glowstone_dust": "2025-06-10 01:22:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-06-10 02:16:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-06-10 02:16:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2025-06-10 02:21:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "carrot": "2025-06-10 02:11:10 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-06-10 02:09:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-06-10 02:11:10 +0000"
-    },
-    "done": true
-  },
-  "skyblock:challenges/all_light_sources": {
-    "criteria": {
-      "glowstone": "2025-06-10 01:55:30 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/combat/spectral_arrow": {
-    "criteria": {
-      "has_glowstone_dust": "2025-06-10 01:22:59 +0000"
     },
     "done": true
   },
@@ -637,9 +571,93 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-06-10 02:10:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "carrot": "2025-06-10 02:11:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-10 02:11:10 +0000"
+    },
+    "done": true
+  },
+  "skyblock:progression/kill_spider": {
+    "criteria": {
+      "kill_spider": "2025-06-10 02:16:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-06-10 02:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-06-10 02:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-06-10 02:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-06-10 02:16:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-06-10 02:16:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-06-10 02:16:20 +0000"
+    },
+    "done": true
+  },
+  "skyblock:progression/bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-10 02:21:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-06-10 02:21:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-06-10 02:44:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-06-10 02:44:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-06-10 02:44:58 +0000"
     },
     "done": true
   },
