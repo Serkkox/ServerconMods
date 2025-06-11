@@ -153,3 +153,21 @@
 [02:00:28] [Server thread/INFO]: noxox fell out of the world
 [02:03:23] [Server thread/INFO]: SerkkoxX has made the advancement [A Seedy Place]
 [02:03:25] [Server thread/INFO]: SerkkoxX has made the advancement [Animal Feed]
+[02:04:33] [Server thread/INFO]: [Textile Backup] Warning! Server backup will begin shortly. You may experience some lag.
+[02:04:33] [Server thread/INFO]: [Textile Backup] Backup started by: Timer on: 2025.06.11_02-04-33
+[02:04:33] [Server thread/INFO]: [Textile Backup] Saving server...
+[02:04:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:04:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:04:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:04:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:04:33] [pool-3-thread-1/INFO]: [Textile Backup] Starting backup
+[02:04:33] [pool-3-thread-1/INFO]: [Textile Backup] Compression took: 00.258 seconds.
+[02:04:33] [pool-3-thread-1/INFO]: [Textile Backup] Deleted: /workspaces/ServerconMods/servidor_minecraft/backup/world/2025.05.29_04-07-39#a.zip
+[02:04:33] [pool-3-thread-1/INFO]: [Textile Backup] Done!
+[02:06:40] [Server thread/INFO]: [Not Secure] <SerkkoxX> 776 ~ -1016
+[02:07:27] [Server thread/INFO]: SerkkoxX has made the advancement [The Parrots and the Bats]
+[02:08:44] [Server thread/INFO]: Made SerkkoxX a server operator
+[02:08:54] [Server thread/INFO]: [SerkkoxX: xpNoCooldown: true, [Change permanently?]]
+[02:08:57] [Server thread/INFO]: [SerkkoxX: Rule xpNoCooldown will now default to true]
+[02:11:09] [Server thread/WARN]: SerkkoxX moved too quickly! -1.1249962325782903,-10.854658122346834,-0.0026601245445760924
+[02:11:13] [Server thread/INFO]: SerkkoxX fell out of the world
