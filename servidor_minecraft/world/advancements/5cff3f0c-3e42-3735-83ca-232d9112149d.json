@@ -734,6 +734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "has_the_recipe": "2025-06-11 01:26:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2025-06-11 01:34:25 +0000"
@@ -743,18 +749,6 @@
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_white_dye": "2025-06-11 01:34:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/acacia_hanging_sign": {
-    "criteria": {
-      "has_stripped_logs": "2025-06-11 01:54:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
-    "criteria": {
-      "has_log": "2025-06-11 01:54:17 +0000"
     },
     "done": true
   },
@@ -770,18 +764,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2025-06-11 01:35:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-06-11 01:35:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_white_wool": {
     "criteria": {
       "has_needed_dye": "2025-06-11 01:34:25 +0000"
@@ -794,27 +776,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-06-11 01:46:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/acacia_boat": {
-    "criteria": {
-      "has_the_recipe": "2025-06-11 01:26:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_white_dye": "2025-06-11 01:34:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-06-11 02:03:04 +0000"
     },
     "done": true
   },
@@ -830,12 +794,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_white_wool": "2025-06-11 01:35:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_white_bed": {
     "criteria": {
       "has_needed_dye": "2025-06-11 01:34:25 +0000"
@@ -848,15 +806,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-06-11 01:34:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-06-11 01:35:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-06-11 01:35:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-06-11 01:35:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-06-11 01:35:02 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+  "minecraft:adventure/sleep_in_bed": {
     "criteria": {
-      "has_white_dye": "2025-06-11 01:34:25 +0000"
+      "slept_in_bed": "2025-06-11 01:46:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-06-11 01:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_acacia_wood": {
+    "criteria": {
+      "has_log": "2025-06-11 01:54:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-11 02:03:04 +0000"
     },
     "done": true
   },
