@@ -1,28 +1,15 @@
 {
-  "skyblock:challenges/root": {
-    "criteria": {
-      "join_skyblock_world": "2025-05-28 19:41:55 -0500"
-    },
-    "done": true
-  },
-  "skyblock:progression/root": {
-    "criteria": {
-      "join_skyblock_world": "2025-05-28 19:41:55 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "unlock_right_away": "2025-05-28 19:41:55 -0500"
+      "unlock_right_away": "2025-06-11 20:37:44 -0500"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_pine_taiga": "2025-05-28 19:41:56 -0500",
-      "minecraft:dark_forest": "2025-05-28 19:42:07 -0500"
+      "minecraft:savanna": "2025-06-11 20:37:45 -0500"
     },
     "done": false
   },
-  "DataVersion": 3839
+  "DataVersion": 4189
 }
