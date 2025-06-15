@@ -1,9 +1,9 @@
-[01:57:11] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
-[01:57:11] [ForkJoinPool-1-worker-4/WARN]: Mod com_github_shevek_parallelgzip uses the version af5f5c297e735f3f2df7aa4eb0e19a5810b8aff6 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'af5f5c297e735f3f2df7aa4eb0e19a5810b8aff6'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[01:57:11] [main/WARN]: Warnings were found!
+[22:33:04] [main/INFO]: Loading Minecraft 1.21.4 with Fabric Loader 0.16.14
+[22:33:04] [ForkJoinPool-1-worker-4/WARN]: Mod com_github_shevek_parallelgzip uses the version af5f5c297e735f3f2df7aa4eb0e19a5810b8aff6 which isn't compatible with Loader's extended semantic version format (Could not parse version number component 'af5f5c297e735f3f2df7aa4eb0e19a5810b8aff6'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[22:33:05] [main/WARN]: Warnings were found!
  - Mod 'Textile Backup' (textile_backup) 3.1.3-1.21 recommends any version of modmenu, which is missing!
 	 - You should install any version of modmenu for the optimal experience.
-[01:57:11] [main/INFO]: Loading 58 mods:
+[22:33:05] [main/INFO]: Loading 58 mods:
 	- architectury 15.0.3
 	- carpet 1.4.161+v241203
 	- chisel 2.0.0+mc1.21.4
@@ -72,57 +72,49 @@
 	   |-- com_github_shevek_parallelgzip af5f5c297e735f3f2df7aa4eb0e19a5810b8aff6
 	   |-- org_apache_commons_commons-compress 1.26.1
 	   \-- org_tukaani_xz 1.9
-[01:57:11] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/ServerconMods/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[01:57:11] [main/INFO]: Compatibility level set to JAVA_16
-[01:57:11] [main/INFO]: Compatibility level set to JAVA_17
-[01:57:11] [main/INFO]: Compatibility level set to JAVA_21
-[01:57:11] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
-[01:57:11] [main/INFO]: Loaded configuration file for Lithium: 158 options available, 0 override(s) found.
-[01:57:12] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[01:57:15] [main/WARN]: Method overwrite conflict for getClimateSettings in architectury.mixins.json:BiomeAccessor from mod architectury, previously written by carpet.mixins.Biome_scarpetMixin. Skipping method.
-[01:57:20] [main/INFO]: [Textile Backup] Starting Textile Backup 3.1.3-1.21:1.21.4 by Szum123321
-[01:57:20] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[01:57:22] [main/INFO]: Loaded 1371 recipes
-[01:57:22] [main/INFO]: Loaded 1481 advancements
-[01:57:23] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 2.669 ms
-[01:57:23] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[01:57:23] [Server thread/INFO]: Loading properties
-[01:57:23] [Server thread/INFO]: Default game type: SURVIVAL
-[01:57:23] [Server thread/INFO]: Generating keypair
-[01:57:23] [Server thread/INFO]: Starting Minecraft server on *:25565
-[01:57:23] [Server thread/INFO]: Using epoll channel type
-[01:57:23] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01:57:23] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[01:57:23] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01:57:23] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[01:57:23] [Server thread/INFO]: Preparing level "world"
-[01:57:24] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[01:57:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:57:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:57:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:57:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:57:26] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[01:57:26] [Worker-Main-1/INFO]: Preparing spawn area: 51%
-[01:57:26] [Server thread/INFO]: Time elapsed: 2564 ms
-[01:57:26] [Server thread/INFO]: Done (3.220s)! For help, type "help"
-[01:57:34] [Server thread/INFO]: Jorbdaj[/127.159.234.88:56031] logged in with entity id 29 at (75.4918914198441, 67.0, 27.873996052535837)
-[01:57:34] [Server thread/INFO]: Jorbdaj joined the game
-[01:57:34] [Server thread/INFO]: Player Jorbdaj joined with a matching carpet client
-[01:57:40] [Server thread/INFO]: noxox[/127.242.93.67:47263] logged in with entity id 351 at (127.30000001192093, 70.0, 40.74245125207319)
-[01:57:40] [Server thread/INFO]: noxox joined the game
-[01:57:40] [Server thread/INFO]: Player noxox joined with a matching carpet client
-[01:57:48] [Server thread/INFO]: SerkkoxX[/127.159.234.88:38063] logged in with entity id 420 at (110.13620139371655, 70.0, 22.79394480113536)
-[01:57:48] [Server thread/INFO]: SerkkoxX joined the game
-[01:57:48] [Server thread/INFO]: Player SerkkoxX joined with a matching carpet client
-[02:05:41] [Server thread/INFO]: SerkkoxX has made the advancement [Monster Hunter]
-[02:06:13] [Server thread/INFO]: SerkkoxX lost connection: Disconnected
-[02:06:13] [Server thread/INFO]: SerkkoxX left the game
-[02:06:37] [Server thread/INFO]: SerkkoxX[/127.159.234.88:57523] logged in with entity id 3511 at (105.06727915144826, 51.0, 48.30000001192093)
-[02:06:37] [Server thread/INFO]: SerkkoxX joined the game
-[02:06:40] [Server thread/INFO]: Player SerkkoxX joined with a matching carpet client
-[02:06:43] [Server thread/INFO]: Jorbdaj lost connection: Disconnected
-[02:06:43] [Server thread/INFO]: Jorbdaj left the game
-[02:06:57] [Server thread/INFO]: Jorbdaj[/127.159.234.88:38533] logged in with entity id 3550 at (101.44777234619488, 70.0, 10.544919769199057)
-[02:06:57] [Server thread/INFO]: Jorbdaj joined the game
-[02:07:00] [Server thread/INFO]: Player Jorbdaj joined with a matching carpet client
-[02:07:03] [Server thread/INFO]: noxox has made the advancement [Monster Hunter]
+[22:33:05] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/ServerconMods/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[22:33:05] [main/INFO]: Compatibility level set to JAVA_16
+[22:33:05] [main/INFO]: Compatibility level set to JAVA_17
+[22:33:05] [main/INFO]: Compatibility level set to JAVA_21
+[22:33:05] [main/WARN]: Mod 'ferritecore' attempted to override option 'mixin.alloc.blockstate', which doesn't exist, ignoring
+[22:33:05] [main/INFO]: Loaded configuration file for Lithium: 158 options available, 0 override(s) found.
+[22:33:06] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[22:33:09] [main/WARN]: Method overwrite conflict for getClimateSettings in architectury.mixins.json:BiomeAccessor from mod architectury, previously written by carpet.mixins.Biome_scarpetMixin. Skipping method.
+[22:33:13] [main/INFO]: [Textile Backup] Starting Textile Backup 3.1.3-1.21:1.21.4 by Szum123321
+[22:33:13] [main/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:33:15] [main/INFO]: Loaded 1371 recipes
+[22:33:15] [main/INFO]: Loaded 1481 advancements
+[22:33:16] [main/INFO]: Applied 0 biome modifications to 0 of 65 new biomes in 1.606 ms
+[22:33:16] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[22:33:16] [Server thread/INFO]: Loading properties
+[22:33:16] [Server thread/INFO]: Default game type: SURVIVAL
+[22:33:16] [Server thread/INFO]: Generating keypair
+[22:33:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:33:16] [Server thread/INFO]: Using epoll channel type
+[22:33:16] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:33:16] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:33:16] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:33:16] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:33:16] [Server thread/INFO]: Preparing level "world"
+[22:33:16] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:33:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:33:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:33:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:33:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:33:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:33:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:33:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:33:20] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[22:33:20] [Server thread/INFO]: Time elapsed: 3629 ms
+[22:33:20] [Server thread/INFO]: Done (4.024s)! For help, type "help"
+[22:33:25] [Server thread/INFO]: SerkkoxX[/127.159.234.88:34861] logged in with entity id 15 at (112.41291684675933, 47.0, 72.73775725912853)
+[22:33:25] [Server thread/INFO]: SerkkoxX joined the game
+[22:33:26] [Server thread/INFO]: Player SerkkoxX joined with a matching carpet client
+[22:34:54] [Server thread/INFO]: noxox[/127.242.93.67:52941] logged in with entity id 442 at (139.2092589847627, 31.24918707874468, 82.20998683540765)
+[22:34:54] [Server thread/INFO]: noxox joined the game
+[22:34:56] [Server thread/INFO]: Player noxox joined with a matching carpet client
+[22:35:22] [Server thread/INFO]: noxox was shot by Skeleton
+[22:36:44] [Server thread/INFO]: SerkkoxX has made the advancement [Isn't It Iron Pick]
+[22:37:20] [Server thread/INFO]: noxox was blown up by Creeper
+[22:39:36] [Server thread/INFO]: noxox was slain by SerkkoxX
+[22:42:59] [Server thread/INFO]: SerkkoxX has made the advancement [Acquire Hardware]
