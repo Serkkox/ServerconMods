@@ -8,8 +8,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:savanna_plateau": "2025-06-15 22:35:52 +0000",
+      "minecraft:forest": "2025-06-15 23:34:52 +0000",
+      "minecraft:sparse_jungle": "2025-06-15 23:29:09 +0000",
+      "minecraft:river": "2025-06-15 23:28:18 +0000",
       "minecraft:dripstone_caves": "2025-06-15 22:49:24 +0000",
-      "minecraft:savanna": "2025-06-12 01:42:29 +0000"
+      "minecraft:savanna": "2025-06-12 01:42:29 +0000",
+      "minecraft:bamboo_jungle": "2025-06-15 23:33:34 +0000",
+      "minecraft:plains": "2025-06-15 23:28:32 +0000"
     },
     "done": false
   },
@@ -821,6 +826,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-06-15 23:35:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 22:42:59 +0000"
@@ -899,6 +910,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-06-15 23:33:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2025-06-15 22:56:00 +0000"
@@ -968,6 +985,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2025-06-15 22:42:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2025-06-15 23:33:09 +0000"
     },
     "done": true
   },
@@ -1088,6 +1111,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-06-15 23:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2025-06-15 23:33:09 +0000"
     },
     "done": true
   },
@@ -1295,6 +1324,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-15 23:33:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-15 23:41:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-06-15 22:37:49 +0000"
@@ -1322,6 +1363,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-06-15 22:56:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-06-15 23:33:33 +0000"
     },
     "done": true
   },
@@ -1376,6 +1423,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-06-15 22:37:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-06-15 23:33:33 +0000"
     },
     "done": true
   },
